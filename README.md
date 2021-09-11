@@ -1,6 +1,6 @@
 # NGCP_Software_2021_2022
 
-## Open CV:
+## Open CV
 1. Saharat
 2. Caroline
 3. Noe
