@@ -1,0 +1,7 @@
+Date: 10/08/2021
+For this week, my team found many source for the GPS components. Our main goal is to find many source code which compatible with Arduino or Raspberry Pi 
+    - For the NEO-6M:
+        + https://create.arduino.cc/projecthub/amalmathewtech/arduino-gps-module-destination-notifier-288a55: the code find the latitude and longitude to define the location of the destination notifier
+        + https://www.youtube.com/watch?v=N8fH0nc9v9Q&ab_channel=SPARKLERS%3AWeAreTheMakers: This is the youtube link that will running full turtorial of how to use NEO 6M with Raspberry Pi and Python code 
+        + https://github.com/FranzTscharf/Python-NEO-6M-GPS-Raspberry-Pi: The github code to guide how to install the dependencies, configuration service, and give a running script 
+        + We also read many articles how the GPS components works with main board. How it sends and receivce the data itself 

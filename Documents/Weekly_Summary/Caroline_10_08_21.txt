@@ -1,0 +1,17 @@
+Name: Caroline Ta
+
+Date: 10/08/21
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Although the connector on the Pcam 5C is pin compatible with the Raspberry Pi, Digilent has not validated that the two devices work properly together and does not provide software to do. Therefore, my group was looking into example of cameras similar to PCam 5C and their related Raspberry Pi projects.
+- Found a few Raspberry Pi projects that uses cameras and looked into them.
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- More research on how compatible PCam 5C is to Raspberri Pi.
+
+Potential Challenges: Describe any potential obstacles.
+- Lack of information.
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- Found that there are no existing project of Pcam 5C and Raspberry Pi
+- Looked into a few projects that could indicate if Pcam 5C and Raspberry Pi can work properly together.
