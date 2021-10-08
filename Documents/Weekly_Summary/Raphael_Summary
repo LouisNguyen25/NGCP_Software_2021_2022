@@ -1,0 +1,9 @@
+10/8/21
+Researched tutorials on implementing motor and encoder
+	Found Arduino and Raspberry Pi Tutorials for setting up L298N motor controller.
+		- Tutorials seemed simple to implement
+		- However, I did not see a port to plug in the encoder, only the motor.
+		- Need to look into it further, we may need a different controller or a separate
+		  module to hook up the encoder.
+		- Pololu, manufacturer of our motor, has a list of motor controllers they also make:
+		  https://www.pololu.com/category/10/brushed-dc-motor-controllers
