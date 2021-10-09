@@ -1,7 +1,0 @@
-﻿10/08/2021
-Summary:
-I continued to research the implementation methods and example codes of the IMU part( MPU-6500) and Communication part (Digi XBS2C). Starting with the MPU-6500, I already found links that will help with the implementation for both Raspberry pi and Ardunio last week, thus I focused on searching for the implementation methods for Digi XBS2C. I found two more websites each that demonstrated how to connect with Raspberry pi and Arduino. 
-Complications:
-There wasn’t a lot of information about connecting with the MPU-6500, so I had to look for other models that have a similar implementation. 
-Next Actions:
-Compare the documents and make notes of which one is better to use.
