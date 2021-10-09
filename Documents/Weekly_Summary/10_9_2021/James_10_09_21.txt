@@ -1,0 +1,17 @@
+Name: James Huynh
+Date: 10/09/2021
+For this week, my team found many source for the GPS components, source code that relates to the Webot Simulation:
+    - https://www.youtube.com/watch?v=A4J159jfjG8&ab_channel=Softillusion: Full tutorial with using C++ to intergrate GPS with a custom robot
+    - Step to create GPS by using Webot simulation:
+        1. Creating the shape for GPS
+        2. Choosing the library function (GPS) for the robot
+        3. Creating distancesensor, motor, robot, keyboard, gps functions
+        4. Writing GPS function for the robot
+    - Libray functions code for it: 
+        #include <webots/DistanceSensor.hpp>
+        #include <webots/Motor.hpp>
+        #include <webots/Robot.hpp>
+        #include <webots/Keyboard.hpp>
+        #include <webots/GPS.hpp>
+
+    - https://cdn.portfolium.com/ugcs3%2Fv3%2Fproject_attachments%2F4DEDC4CE-BBEB-4F81-B1B7-7CA59576E14B_Autonomous-Ground-Vehicle-controller.txt: Python text file by using Webot Simulation
