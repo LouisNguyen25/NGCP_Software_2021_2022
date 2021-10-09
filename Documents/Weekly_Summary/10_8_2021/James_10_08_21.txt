@@ -1,3 +1,4 @@
+Name: James Huynh
 Date: 10/08/2021
 For this week, my team found many source for the GPS components. Our main goal is to find many source code which compatible with Arduino or Raspberry Pi 
     - For the NEO-6M:
