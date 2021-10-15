@@ -79,6 +79,7 @@ Tutorial For Beginners 27 - Template matching using OpenCV in Python
 https://gist.github.com/pknowledge/eada42b1db043f4cc6a16e66bc6d1bbc
 
 Tutorial For Beginners 28 - Hough Line Transform Theory
+
 Tutorial For Beginners 29 - Hough Line Transform using HoughLines method in OpenCV
 
 https://gist.github.com/pknowledge/62ad0d100d6d4df756c0374dee501131
