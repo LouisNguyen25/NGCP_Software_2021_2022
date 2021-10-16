@@ -1,0 +1,8 @@
+Date: 10/9/2021
+
+Achievements: 
+    -Got the GPS and worked on the code making sure the GPS works
+    -Worked on the Software Trade Matrix
+What to work on:
+    -Start to read the code more and understand what it does
+    -Share the code and info with the group
