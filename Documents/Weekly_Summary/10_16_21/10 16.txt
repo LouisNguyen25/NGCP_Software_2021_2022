@@ -1,0 +1,9 @@
+Date: 10/16/2021
+
+Achievements:
+	-Getting the code and GPS to run
+        -Getting my group information they need
+	-Finding more code to try on the GPS
+What to work on:
+	-Find better code
+	-Making sure the GPS is accurate
