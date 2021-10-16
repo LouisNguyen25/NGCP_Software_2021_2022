@@ -1,0 +1,16 @@
+﻿Accomplishment:
+Joint-meeting:
+-worked on the documentation for the IMU
+        - researched what the IMU is and how to implement it
+Software meeting:
+-implemented the magnetometer
+-implemented to the altimeter/barometer
+
+
+Issue:
+- the altitude value from altimeter seems inaccurate
+
+
+Next Step:
+- convert the magnetometer data to compass heading
+-double check the conversion on the altimeter
