@@ -5,15 +5,19 @@ Achievements: List your accomplishments during the week, including activities yo
 - Finished setting up Raspbian on the Raspberry Pi 4
 - Tried connecting PCam 5C with the Raspberry Pi 4
 - Learn about the differences between Haar Cascade vs. YOLO Face/Object Detection methods
+- Found that Raspberry Pi Camera Module V2 may be a good alternative
 
 Plans: State your specific, targeted plans for next week. Include due dates.
 - Find an alternative camera to work with Raspberry Pi 4
 - More research on YOLO Detection
 - Finish setting up OpenCV on Raspberry Pi
+- Final decision on whether to get Raspberry Pi Camera V2 and find more tech specs on it
 
 Potential Challenges: Describe any potential obstacles.
-- Find an affordable but good quality camera that can be used with Raspberry Pi.
-- Setting up OpenCV takes a lot of time.
+- Find an affordable but good quality camera that can be used with Raspberry Pi
+- Setting up OpenCV takes a lot of time
+- Finding and deciding new camera (+ camera's info) to buy, consider the price and delivery date
 
 Opportunities: Record any lessons you've learned and note areas where you can improve.
 - Found that PCam5C has OV5640 sensor, but Raspberry Pi only supports the OV5657 and Sony IMX219 sensors. We need to get a different camera.
+- There are 2 good cameras: Raspberry Pi Camera Module V2 and Raspberry Pi Camera HQ. But the V2 model is more affordable and works just fine. 
