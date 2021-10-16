@@ -1,0 +1,13 @@
+# Target labels
+ Main
+ opencv_imgcodecs
+ PerfTest
+# Source files and their labels
+C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/modules/imgcodecs/perf/perf_main.cpp
+ Main
+ opencv_imgcodecs
+ PerfTest
+C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/modules/imgcodecs/perf/perf_precomp.hpp
+ Main
+ opencv_imgcodecs
+ PerfTest

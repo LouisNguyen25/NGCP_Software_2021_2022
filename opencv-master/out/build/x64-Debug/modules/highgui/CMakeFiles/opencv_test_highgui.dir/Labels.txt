@@ -1,0 +1,17 @@
+# Target labels
+ Main
+ opencv_highgui
+ AccuracyTest
+# Source files and their labels
+C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/modules/highgui/test/test_gui.cpp
+ Main
+ opencv_highgui
+ AccuracyTest
+C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/modules/highgui/test/test_main.cpp
+ Main
+ opencv_highgui
+ AccuracyTest
+C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/modules/highgui/test/test_precomp.hpp
+ Main
+ opencv_highgui
+ AccuracyTest

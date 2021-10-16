@@ -1,0 +1,495 @@
+The system is: Windows - 10.0.19043 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.29.30133.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.29.30133.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2346f && [1/2] Building CXX object CMakeFiles\cmTC_2346f.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_2346f.exe
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_28d51 && [1/2] Building C object CMakeFiles\cmTC_28d51.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_28d51.exe
+
+
+
+Determining if the include file malloc.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9a0ec && [1/2] Building C object CMakeFiles\cmTC_9a0ec.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_9a0ec.exe
+
+
+
+Determining if the _aligned_malloc exist passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1eac6 && [1/2] Building C object CMakeFiles\cmTC_1eac6.dir\CheckSymbolExists.c.obj
+[2/2] Linking C executable cmTC_1eac6.exe
+
+
+File C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _aligned_malloc
+  return ((int*)(&_aligned_malloc))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_20d12 && [1/2] Building C object CMakeFiles\cmTC_20d12.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_20d12.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_efcd4 && [1/2] Building C object CMakeFiles\cmTC_efcd4.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_efcd4.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_f0602 && [1/2] Building C object CMakeFiles\cmTC_f0602.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_f0602.exe
+
+
+
+Determining size of size_t passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_15f08 && [1/2] Building C object CMakeFiles\cmTC_15f08.dir\SIZEOF_SIZE_T.c.obj
+[2/2] Linking C executable cmTC_15f08.exe
+
+
+
+Determining size of unsigned long passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d0d31 && [1/2] Building C object CMakeFiles\cmTC_d0d31.dir\SIZEOF_UNSIGNED_LONG.c.obj
+[2/2] Linking C executable cmTC_d0d31.exe
+
+
+
+Determining if files intrin.h exist passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_542ec && [1/2] Building C object CMakeFiles\cmTC_542ec.dir\HAVE_INTRIN_H.c.obj
+[2/2] Linking C executable cmTC_542ec.exe
+
+
+
+Determining if the include file assert.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c22d3 && [1/2] Building C object CMakeFiles\cmTC_c22d3.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_c22d3.exe
+
+
+
+Determining if the include file fcntl.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_70720 && [1/2] Building C object CMakeFiles\cmTC_70720.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_70720.exe
+
+
+
+Determining if the include file inttypes.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_77870 && [1/2] Building C object CMakeFiles\cmTC_77870.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_77870.exe
+
+
+
+Determining if the include file io.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ac7e3 && [1/2] Building C object CMakeFiles\cmTC_ac7e3.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_ac7e3.exe
+
+
+
+Determining if the include file limits.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_59a4a && [1/2] Building C object CMakeFiles\cmTC_59a4a.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_59a4a.exe
+
+
+
+Determining if the include file memory.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_fe7cf && [1/2] Building C object CMakeFiles\cmTC_fe7cf.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_fe7cf.exe
+
+
+
+Determining if the include file search.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c6e83 && [1/2] Building C object CMakeFiles\cmTC_c6e83.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_c6e83.exe
+
+
+
+Determining if the include file string.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d4fff && [1/2] Building C object CMakeFiles\cmTC_d4fff.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_d4fff.exe
+
+
+
+Performing C SOURCE FILE Test C_HAS_inline succeeded with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_8ae7d && [1/2] Building C object CMakeFiles\cmTC_8ae7d.dir\src.c.obj
+[2/2] Linking C executable cmTC_8ae7d.exe
+
+
+Source file was:
+
+        typedef int foo_t;
+        static inline foo_t static_foo() {return 0;}
+        foo_t foo(){return 0;}
+        int main(int argc, char *argv[]) {return 0;}
+Determining size of signed short passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_754a5 && [1/2] Building C object CMakeFiles\cmTC_754a5.dir\SIZEOF_SIGNED_SHORT.c.obj
+[2/2] Linking C executable cmTC_754a5.exe
+
+
+
+Determining size of unsigned short passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b8b71 && [1/2] Building C object CMakeFiles\cmTC_b8b71.dir\SIZEOF_UNSIGNED_SHORT.c.obj
+[2/2] Linking C executable cmTC_b8b71.exe
+
+
+
+Determining size of signed int passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_055c3 && [1/2] Building C object CMakeFiles\cmTC_055c3.dir\SIZEOF_SIGNED_INT.c.obj
+[2/2] Linking C executable cmTC_055c3.exe
+
+
+
+Determining size of unsigned int passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5933d && [1/2] Building C object CMakeFiles\cmTC_5933d.dir\SIZEOF_UNSIGNED_INT.c.obj
+[2/2] Linking C executable cmTC_5933d.exe
+
+
+
+Determining size of signed long passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2e731 && [1/2] Building C object CMakeFiles\cmTC_2e731.dir\SIZEOF_SIGNED_LONG.c.obj
+[2/2] Linking C executable cmTC_2e731.exe
+
+
+
+Determining size of signed long long passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_23e3f && [1/2] Building C object CMakeFiles\cmTC_23e3f.dir\SIZEOF_SIGNED_LONG_LONG.c.obj
+[2/2] Linking C executable cmTC_23e3f.exe
+
+
+
+Determining size of unsigned long long passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2beb6 && [1/2] Building C object CMakeFiles\cmTC_2beb6.dir\SIZEOF_UNSIGNED_LONG_LONG.c.obj
+[2/2] Linking C executable cmTC_2beb6.exe
+
+
+
+Determining size of unsigned char * passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_521bb && [1/2] Building C object CMakeFiles\cmTC_521bb.dir\SIZEOF_UNSIGNED_CHAR_P.c.obj
+[2/2] Linking C executable cmTC_521bb.exe
+
+
+
+Determining size of ptrdiff_t passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c4ec5 && [1/2] Building C object CMakeFiles\cmTC_c4ec5.dir\SIZEOF_PTRDIFF_T.c.obj
+[2/2] Linking C executable cmTC_c4ec5.exe
+
+
+
+Determining if the function setmode exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4afc7 && [1/2] Building C object CMakeFiles\cmTC_4afc7.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_4afc7.exe
+
+
+
+Determining if the function strchr exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c56fc && [1/2] Building C object CMakeFiles\cmTC_c56fc.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_c56fc.exe
+
+
+
+Determining if the function strrchr exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b0102 && [1/2] Building C object CMakeFiles\cmTC_b0102.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_b0102.exe
+
+
+
+Determining if the function strstr exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_38991 && [1/2] Building C object CMakeFiles\cmTC_38991.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_38991.exe
+
+
+
+Determining if the function strtol exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_46de3 && [1/2] Building C object CMakeFiles\cmTC_46de3.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_46de3.exe
+
+
+
+Determining if the function strtol exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_36ceb && [1/2] Building C object CMakeFiles\cmTC_36ceb.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_36ceb.exe
+
+
+
+Determining if the function strtoull exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_21fcf && [1/2] Building C object CMakeFiles\cmTC_21fcf.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_21fcf.exe
+
+
+
+Determining if the function lfind exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a9790 && [1/2] Building C object CMakeFiles\cmTC_a9790.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_a9790.exe
+
+
+
+Performing C SOURCE FILE Test HAVE_SNPRINTF succeeded with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e3d8e && [1/2] Building C object CMakeFiles\cmTC_e3d8e.dir\src.c.obj
+[2/2] Linking C executable cmTC_e3d8e.exe
+
+
+Source file was:
+
+#include <stdio.h>
+int main(void) {
+  char buf[10];
+  snprintf(buf, 10, "Test %d", 1);
+  return 0;
+}
+Determining if the include file stdlib.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1038f && [1/2] Building C object CMakeFiles\cmTC_1038f.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_1038f.exe
+
+
+
+Determining if the include file stdio.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_3c95f && [1/2] Building C object CMakeFiles\cmTC_3c95f.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_3c95f.exe
+
+
+
+Determining if the include file math.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9cf48 && [1/2] Building C object CMakeFiles\cmTC_9cf48.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_9cf48.exe
+
+
+
+Determining if the include file float.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_44382 && [1/2] Building C object CMakeFiles\cmTC_44382.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_44382.exe
+
+
+
+Determining if the include file time.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_96b14 && [1/2] Building C object CMakeFiles\cmTC_96b14.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_96b14.exe
+
+
+
+Determining if the include file stdarg.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_63428 && [1/2] Building C object CMakeFiles\cmTC_63428.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_63428.exe
+
+
+
+Determining if the include file ctype.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5cf3b && [1/2] Building C object CMakeFiles\cmTC_5cf3b.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_5cf3b.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4bb28 && [1/2] Building C object CMakeFiles\cmTC_4bb28.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_4bb28.exe
+
+
+
+Determining if the include file inttypes.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_56232 && [1/2] Building C object CMakeFiles\cmTC_56232.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_56232.exe
+
+
+
+Determining if the include file sys/stat.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_689bf && [1/2] Building C object CMakeFiles\cmTC_689bf.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_689bf.exe
+
+
+
+Determining if files malloc.h exist passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e4d08 && [1/2] Building C object CMakeFiles\cmTC_e4d08.dir\OPJ_HAVE_MALLOC_H.c.obj
+[2/2] Linking C executable cmTC_e4d08.exe
+
+
+
+Determining if the _aligned_malloc exist passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_49417 && [1/2] Building C object CMakeFiles\cmTC_49417.dir\CheckSymbolExists.c.obj
+[2/2] Linking C executable cmTC_49417.exe
+
+
+File C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _aligned_malloc
+  return ((int*)(&_aligned_malloc))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the include file mfapi.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1ac01 && [1/2] Building C object CMakeFiles\cmTC_1ac01.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_1ac01.exe
+
+
+
+Determining if the include file d3d11_4.h exists passed with the following output:
+Change Dir: C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a4c24 && [1/2] Building C object CMakeFiles\cmTC_a4c24.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_a4c24.exe
+
+
+

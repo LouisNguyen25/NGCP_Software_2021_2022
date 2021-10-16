@@ -1,0 +1,3 @@
+C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/modules/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_60d36.dir
+C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/modules/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
+C:/Users/KingFu/Desktop/UGV - NGCP internship/test/NGCP_Software_2021_2022/opencv-master/out/build/x64-Debug/modules/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
