@@ -1,0 +1,16 @@
+﻿Preni Amijanian
+10/16/2021 
+
+
+Achievement:
+* Researched code to connect the NEO-6M GPS Module with Arduino using libraries such as TinyGPSPlus and SoftwareSerial
+* Downloaded PlatformIO and LiveShare extensions for Visual Studio Code 
+* Tested a sample code with James to ensure everything was working
+* Using the Live Share extension on VS Code, got to work on the GPS code with James for the the NEO-6M GPS Module 
+* Downloaded and added the TinyGPS++.h library for the code
+* Wrote and Ran the code with James and got the correct location of the GPS with the help of Longitude and Latitude
+
+
+Next Steps:
+* Research other useful resources
+* Test more code
