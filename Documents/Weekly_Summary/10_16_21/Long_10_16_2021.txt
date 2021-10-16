@@ -1,0 +1,6 @@
+ Name: Long Nguyen
+- Date: 10/16/2021
+- Achievements: Acquired and setup the UMI. Furthermore, I did reasearch on the IMU and write about it. Moreover, I have worked with LiveShare and PlatformIO using VSC. Finally, I successly print out the vaules for altimeter, accelerometer, and Gyroscope. 
+- Plans: I plan to do more reasearch on the IMU and calibrate the print out values of the IMU.
+- Potential Challenges: The chalenges I might encounter are unit conversion and equations to get a specific value.
+- Opportunities: I had the Opportunities to work with Arduino, IMU, and VSC LiveShare.
