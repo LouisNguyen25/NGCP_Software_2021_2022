@@ -1,0 +1,14 @@
+Name: Noe Rivera
+Date: 10/16/21
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+We looked into possible ways to do train for body detection and decided to use YOLO (you only look once) to train our machine. 
+Started the basics of understanding how to use yolo by starting with a facial dectection training. 
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+To use the training to see if we can accuarelly detect objects that we have trained our machince to use. 
+
+Potential Challenges: Describe any potential obstacles.
+While training we need to make sure that the sample size we are using is large enought to arrcuately get results, but the larger the sample size the longer it takes to fully train.
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+Finding the sample sizes takes a lot of time, there are websites that provide basic sample sizes ready to use for future training
