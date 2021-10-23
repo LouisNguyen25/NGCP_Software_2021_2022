@@ -1,0 +1,6 @@
+ Name: Long Nguyen
+- Date: 10/23/2021
+- Achievements: Finished setting up the IMU and adjusted the value to be more accurate.
+- Plans: I plan to do more reasearch on the IMU and calibrate the print out values of the IMU. Also, I might want to do some research on the xbee and rasberry Pi.
+- Potential Challenges: The chalenges I might encounter are unit conversion and equations to get a specific value. Furthermore, I might have issues testing out the xbee.
+- Opportunities: I had the Opportunities to work with Arduino, IMU, and VSC LiveShare.
