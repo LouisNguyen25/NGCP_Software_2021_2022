@@ -1,0 +1,13 @@
+10/23/2021
+
+Finished set up of ultrasonic sensor on Raspberry Pi
+	- Able to read distance in cm and inches fairly accurately.
+	- However, when there's plenty of movement in front of the sensor, readings
+	tend to be far off.
+	- When facing objects at an angle, the sensor thinks the object is farther away than 
+	it actually is.
+	- Need to figure out how to approach this misreadings
+	
+Began setting up L298N motor driver and out motor/encoder on RPI
+	- Still having issues on wiring, may need bigger gauge wires.
+	- Will be getting a better voltage supply next week.
