@@ -1,0 +1,14 @@
+10/23
+Accomplishment:
+Group Meeting
+-Finished the documentation for the IMU in essay format
+-started on fixing the temperature and altitude values
+
+Software meeting:
+-fixed the temperature value and adjusted the alititude value
+	ISSUE: sometimes the alitude value does not lined up to the value when calculated by hand. There is a +-3 ft difference
+-calibrated the accelerometer, prints closely to 0 , 0 , 0 or x, y, z
+
+
+Next Step:
+-calibrate the gyroscope and make the heading of magnetometer
