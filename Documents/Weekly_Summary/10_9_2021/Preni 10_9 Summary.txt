@@ -1,7 +1,0 @@
-﻿10/09/2021 
-Achievement:
-* Watched a youtube video about how to integrate GPS with custom robots in Webots.
-* Contributed to the Software Trade Matrix polling.
-* Researched more about NEO-6M and wrote a paragraph on the GPS document about how it works.
-Challenge and Solution:
-* The GPS integration code in Webots was written in C++, so, I found a code for GPS integration in Webots that was written in Python, which happened to be written by a Cal Poly Pomona student.

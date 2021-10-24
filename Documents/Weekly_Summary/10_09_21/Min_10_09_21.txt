@@ -1,0 +1,9 @@
+﻿10/09
+Summary
+* Found 1 website describing how to use the IMU (InterialUnit) in webots
+* Found 1 youtube, demonstrating how to create the IMU using box shapes and using the IMU library from webots
+Problem
+* The video demo, only showed the code using C++ and most of the sources on GitHub are in C++ or ROS.
+   * There are not many sources using Python
+Next Plan
+* Since most of the codes are in C++, try to analyze how to write the code in Python
