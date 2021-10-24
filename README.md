@@ -26,6 +26,9 @@
 
 After Component Development
 Cameras and Motors/Ultrasonic will join together to develop autonomous system (in Webots and actual hardware)
+
 GPS and IMU/Xbee will join to develop searching algorithms, states of robot, and how to interface with GCS
+
 Controls will work on implementing Simulink development for Simulation and Hardware on ROS network
+
 Controls may also take the opportunity to learn about the other components if they so choose and work with any team
