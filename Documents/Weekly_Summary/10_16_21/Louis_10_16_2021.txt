@@ -1,0 +1,18 @@
+Date: 10/16/21
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Was able to get two teams (GPS and IMU) to produce results from prototype testing
+	- Really good work by James, Preni, Saharat, Long, and Min who really put a lot of effort into getting the prototpyes to work
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Help Camera team look and make decision on what Raspberry Pi Camera they want to use
+- Look into ROS (need help from those strong in Simulink, maybe students recommended by Boskovich) as a way to interface Simulink and Webots
+
+Potential Challenges: Describe any potential obstacles.
+- Pcam 5c Camera unable to communicate with Pi due to a difference in the registers it saves the feed to (GPU unable to detect camera)
+- Worrying that I am unable to secure results from Motor/Ultrasonic and Xbee
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- ROS may be the way for that potential Simulink to Webots Interface
+	- ROSbags (data logging feature) may present useful applications with its replay feature of simulation data on both simulation/hardware
+- Interest in recruiting member that Long proposed, help out in Xbee communication
