@@ -1,1 +1,26 @@
+Date: 10/23/21
 
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Was able to get a little test run of a ROS network on Simulink
+- Some development into getting ROS downloaded on Ubuntu and getting a Webots ROS node to run
+- Teams are making progress with components 
+  - GPS, IMU are at the stage of testing components for margin of error and accuracy
+  - Camera has made some progress into the object detection algorithm using Yolo v5 with a training sample of 100 pets (lasted for 2 hours)
+  - Ultrasonic sensor measurements made - Max of around 1015cm
+    - Also would display max distance if signal bounced at an angle and did was not receieved
+  - Xbee development and testing has be given to Long as Jonathan has not come through
+    - Jonathan will deliver parts to Long, and will be relegated to helping with the code aspect
+      - If failure to produce results or complaints raised from Long or Min, I will consider dropping him
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Working ROS implementation on Simulink and Webots (separately) expected in the next two weeks
+- Want to be able to get ROS working independetly before we start live connection tests 
+- Will begin working with testing Webots models for Corey's CAD models in about 2-3 weeks time
+
+Potential Challenges: Describe any potential obstacles.
+- Lack of information related to ROS with Webots and Simulink (ROS normally used with other simulators like Gazebo)
+- Can Xbee be tested with only one pi? Can it work between a computer and pi? The question still stands
+
+Opportunities: Record any lessons you’ve learned and note areas where you can improve.
+- Recruitment of new members puts the team at 12 members (not including myself)
+- The knowledge of the new members in Controls will greatly help with learning how to correctly utilize Simulink graphical interfaces as a way for live paramter testing
