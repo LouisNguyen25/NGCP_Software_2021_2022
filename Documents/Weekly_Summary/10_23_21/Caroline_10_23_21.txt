@@ -1,0 +1,22 @@
+Name: Caroline Ta
+Date: 10/23/21
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Finished training Pet Detection using Roboflow for 100 epochs, the training took 2 hours and 11 minutes.
+- Finalized on purchasing Raspberri Pi v2 Camera.
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Find an alternative/ free way to train the dataset.
+- Test the Pet Detection on a real pet by using the camera.
+
+Potential Challenges: Describe any potential obstacles.
+- Training the Detection has some limits. It is recommended to train with at least 3000 epochs but I could only tested with 100 because of time constraint.
+- There is also a limit GPU use on Roboflow so it timed out when I tried to train 3000 epochs; after that, I cannot train anymore using GPU.
+- It can take hours to train.
+- For finding the camera, we it is still hard to find a fully detailed datasheet for it.
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- Learn how to train the data with YOLOv5.
+- Maybe I can try testing it with YOLOvX - the newest version.
+- Find new tutorials to find alternative ways on how to train data.
+- Find tutorials on how to set up the camera with Raspberry Pi.
