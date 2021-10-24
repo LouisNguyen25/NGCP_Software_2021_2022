@@ -1,0 +1,9 @@
+Name: Arabo Hovsepian
+Date: 10/23/21
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Watched and followed along Webots tutorials
+- Read over Motor documentation provided by Rahpael
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Dig deeper into learning Webots
