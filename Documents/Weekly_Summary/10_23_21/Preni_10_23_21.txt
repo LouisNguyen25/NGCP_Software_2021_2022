@@ -1,0 +1,10 @@
+﻿Preni Amijanian
+10/23/2021 
+
+
+Achievement:
+* Continued watching the Webots Tutorial and followed along by creating an environment for the robot that would look like a place and objects that our vehicle would encounter.
+* Did more research on other features of NEO-6M GPS. 
+* Joined the VS Code Live Share with James to see the accuracy of the location for the GPS. 
+Next Steps:
+* Continue working on Webots
