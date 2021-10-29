@@ -1,22 +1,22 @@
 # NGCP_Software_2021_2022
 
 ## Open CV / Cameras
-1. Caroline
-2. Noe
+1. [Caroline](https://github.com/qdttdev)
+2. [Noe](https://github.com/norivera)
 
 ## Motors/Ultrasonic
-1. Raphael
-2. Arabo
+1. [Raphael](https://github.com/Raphael-CN)
+2. [Arabo](https://github.com/ForGodByGod)
 
 ## GPS
-1. James
-2. Preni
-3. Saharat
+1. [James](https://github.com/jameshuynh1997)
+2. [Preni](https://github.com/PreniAmi)
+3. [Saharat](https://github.com/Saharat12)
 
 ## IMU/Xbee
-1. Long
-2. Min
-3. Jonathan
+1. [Long](https://github.com/KingFuGitHub)
+2. [Min](https://github.com/minjung1004)
+3. [Jonathan](https://github.com/GojiraSan1998)
 
 ## Controls
 1. Benjamin
