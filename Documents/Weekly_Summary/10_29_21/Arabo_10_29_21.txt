@@ -2,6 +2,15 @@ Name: Arabo Hovsepian
 Date: 10/29/21
 
 Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- I was able to undertsand how the RPM reading from the encoder would work
+- Read some of the motor documantation and some other resources regarding PWM
+- Tried to help Raphael by sending him some code and resources regarding communication with the encoder
+
 Plans: State your specific, targeted plans for next week. Include due dates.
+- Hopefully we will impliment some code next week and see if we can communicate with the encoder and read RPM and direction of the rotation
+
 Potential Challenges: Describe any potential obstacles.
+- Not having the hardware in hand is a challenege and so I see that as the biggest challenege
+
 Opportunities: Record any lessons you’ve learned and note areas where you can improve.
+- Had the opportunity to dig deeper and know how PWM, pulses, and the rotation work
