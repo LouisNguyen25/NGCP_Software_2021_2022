@@ -1,0 +1,10 @@
+10/29
+Accomplishment:
+-edited the altitude value to output the closest value to the accurate value
+-calibrated the gyroscope value
+
+Issue:
+- the altitude value keeps changing every time we run it every week
+
+Next Step:
+-calibrate the magnetometer and put the compass heading
