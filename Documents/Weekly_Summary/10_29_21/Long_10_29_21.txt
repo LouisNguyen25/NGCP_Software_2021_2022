@@ -1,0 +1,6 @@
+Name: Long Nguyen
+- Date: 10/29/2021
+- Achievements: Finished setting up the IMU and adjusted the value to be more accurate espcially the altitude. Furthermore, we calibrated the gyroscrope.
+- Plans: I plan to do more reasearch on the IMU and calibrate the print out values of the IMU especially the Magnetometer. Also, I might want to do some research on the xbee and rasberry Pi.
+- Potential Challenges: The chalenges I might encounter are unit conversion and equations to get a specific value. For exmple, the magnetometer might need to do some conversion to determine direction the IMU is facing. Furthermore, I might have issues testing out the xbee.
+- Opportunities: I had the Opportunities to work with Arduino, IMU, VSC, PlatformIO, and VSC LiveShare.
