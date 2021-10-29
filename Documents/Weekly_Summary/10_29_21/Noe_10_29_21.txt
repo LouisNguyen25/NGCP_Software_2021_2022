@@ -1,0 +1,18 @@
+Name: Noe Rivera
+Date: 10/29/21
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+-Completed a rough draft for the theoretical research for the new camera component we will be using
+-found a tutorial that shows a step by step for a live streaming feed to implement on the camera
+
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+-to go over the research with the joint team to see if there is anything more needed
+-Test the new camera and test the live stream 
+-find an effeciant way to train for object detection
+
+Potential Challenges: Describe any potential obstacles.
+-we come to potential issues when setting up the live stream for the camera
+-training for object detection takes a long time 
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- In order to train we need a large enough sample size to get proper results
