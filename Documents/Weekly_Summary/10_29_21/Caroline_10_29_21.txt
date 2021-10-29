@@ -1,0 +1,20 @@
+Name: Caroline Ta
+Date: 10/29/21
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Finished first draft for Theoretical Rearch for Raspberry Pi Camera Module 2.
+- Learned how to set up Raspberry Pi Camera for Live streaming but not test it out yet.
+- Found a very detailed (132 pages) Raspberry Camera Guide.
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Update the Theoretical Research if necessary.
+- If we can get the camera, we can test its functionalities/ qualities on Raspberri Pi with Live steaming.
+- Find an alternative/ free way to train the dataset.
+- Test the Pet Detection on a real pet by using the camera.
+
+Potential Challenges: Describe any potential obstacles.
+- It can take hours to train a new set of data with a new training method.
+- We may come across technical issues that may not have been mention in the guides.
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- Learn how to set up Live streaming for Raspberry Camera Module 2.
