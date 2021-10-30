@@ -1,0 +1,10 @@
+﻿Preni Amijanian
+10/29/2021 
+
+
+Achievement:
+* Researched C++ code for Webots’ position and velocity for the vehicle
+Challenge:
+* An issue arose that the C++ code was running but it was not letting the vehicle move from its position
+Plan:
+* Try to find a solution or research a code written in Python for easier understanding
