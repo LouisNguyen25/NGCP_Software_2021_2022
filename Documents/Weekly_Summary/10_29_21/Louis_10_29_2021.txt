@@ -1,0 +1,18 @@
+Date: 10/29/21
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Architecture of project seems to be finalizing, FPGA/Pi dual interface seems to be okay and viable according to Boskovich
+- Researched with new control members in finding a way to send data from Simulink to MATLAB app then to Webots
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- One whole month for testing of prototypes, algorithms, and simulations
+- Before PDR we need to check the viability of all the ideas we have in mind
+
+Potential Challenges: Describe any potential obstacles.
+- Will have to reschedule meeting times to meet up with James and Nhan on Fridays
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- Concurred with Boskovich to learn more about the architecture and viability of ROS network
+  - Stated ROS network is a little too complicated for this project (better for multi-user interfaces)
+  - Because of this we will use thie remaining month as research time into whether Simulink embedded coder is the better solution or is ROS network the way
+    - Hard testing between the two is a requirement
