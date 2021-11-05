@@ -45,3 +45,10 @@ Then, you will have your wb_robot_step(TIME_STEP) ~= -1 while loop afterwards to
 
 -----------------------------------------------------------------------------------------------
 
+Now we can create and write our Simulink Model
+
+1) Make sure your stop time is inf
+2) Any variables that you have in your m-file that are sent from Webots to MATLAB should be included in your Simulink model. This includes TIME_STEP, and any variables that may be used to store the initialization for a device (w1, w2, w3, w4 used to initiliaze motors 1-4).
+3) Develop some kind of input for devices in Simulation to use (PWM for motors to set their velocity)
+
+------------------------------------------------------------------------------------------------
