@@ -24,6 +24,9 @@ https://cyberbotics.com/doc/guide/matlab
 Co-simulation with Webots and MATLAB
 https://zhuanlan.zhihu.com/p/163027376
 
+Attempts to mimic this video: 
+https://www.youtube.com/watch?v=_ideO9InIXs
+
 In order to bridge a connection between the input in Simulink (Constants, PWM, Slider, etc) to Webots, we will use a MATLAB function block to call the API provided by Webots
 
 ![image](https://user-images.githubusercontent.com/70172238/140588023-71ac7750-f3e0-4230-888d-a6d25e4e115c.png)
