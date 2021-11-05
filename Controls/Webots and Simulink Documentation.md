@@ -50,5 +50,20 @@ Now we can create and write our Simulink Model
 1) Make sure your stop time is inf
 2) Any variables that you have in your m-file that are sent from Webots to MATLAB should be included in your Simulink model. This includes TIME_STEP, and any variables that may be used to store the initialization for a device (w1, w2, w3, w4 used to initiliaze motors 1-4).
 3) Develop some kind of input for devices in Simulation to use (PWM for motors to set their velocity)
+4) Use a MATLAB function block in order to call the Webots functions (wb_motor_set_position, wb_motor_set_velocity)
 
-------------------------------------------------------------------------------------------------
+For the function block, the Webots API functions do not have the ability to communicate from Simulink to Webots (MUST ADD THIS)
+
+For the Webots functions called in the MATLAB function block, highlight the function name, right click and click 'Open "wb_motor_set_velocity"' for example.
+
+![image](https://user-images.githubusercontent.com/70172238/140589221-055fbef8-1c21-4e70-be2f-0761cbede514.png)
+
+Before the callib statement that the MATLAB API uses, add the following line:
+
+coder.extrinsic('calllib');
+
+![image](https://user-images.githubusercontent.com/70172238/140589273-9bbcb467-726e-49b7-a20f-149f106ad0a8.png)
+
+After adding the coder.extrinsic('calllib') function to all Webots related functions in the MATLAB function block, you can begin running the simulation.
+
+
