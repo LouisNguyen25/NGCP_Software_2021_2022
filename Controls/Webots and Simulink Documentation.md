@@ -52,6 +52,8 @@ Now we can create and write our Simulink Model
 3) Develop some kind of input for devices in Simulation to use (PWM for motors to set their velocity)
 4) Use a MATLAB function block in order to call the Webots functions (wb_motor_set_position, wb_motor_set_velocity)
 
+![image](https://user-images.githubusercontent.com/70172238/140589352-a70290c3-c63d-4af7-90b4-93aceed346be.png)
+
 For the function block, the Webots API functions do not have the ability to communicate from Simulink to Webots (MUST ADD THIS)
 
 For the Webots functions called in the MATLAB function block, highlight the function name, right click and click 'Open "wb_motor_set_velocity"' for example.
