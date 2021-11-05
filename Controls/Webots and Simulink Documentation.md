@@ -26,5 +26,22 @@ https://zhuanlan.zhihu.com/p/163027376
 
 In order to bridge a connection between the input in Simulink (Constants, PWM, Slider, etc) to Webots, we will use a MATLAB function block to call the API provided by Webots
 
-![image](https://user-images.githubusercontent.com/70172238/140587856-f7b5ac41-2827-4919-8a68-fab32b398a18.png)
+![image](https://user-images.githubusercontent.com/70172238/140588023-71ac7750-f3e0-4230-888d-a6d25e4e115c.png)
+
+When Webots calls the MATLAB desktop, it will be in a paused state asking to continue, waiting at the keyboard command.
+
+![image](https://user-images.githubusercontent.com/70172238/140588309-9f1f8d60-85a1-4508-88d9-a36a8c6b222c.png)
+
+Click "Exit Debugging" to start writing controller program content.
+This should consist of initializing any devices (for example using the wb_robot_get_device() command to initiliaze motors/servos for the vehicle that you want to pass a input like a PWM).
+
+Next consists of opening and loading the .slx file (Simulink model file) using the open_system and load_system commands.
+
+Use the simset function to create/edit simuilation parameters for when you call the simulation command.
+
+Finally, use the sim function to call your .slx file (Simulink model) giving it the parameters from the m-file controller file.
+
+Then, you will have your wb_robot_step(TIME_STEP) ~= -1 while loop afterwards to possibly draw any graphics
+
+-----------------------------------------------------------------------------------------------
 
