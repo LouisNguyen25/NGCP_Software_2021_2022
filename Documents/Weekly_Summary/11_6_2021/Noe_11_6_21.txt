@@ -1,0 +1,13 @@
+Name: Noe Rivera
+Date: 11/06/21
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+-succesfully trained for object detection.
+
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+-research how to implemnt the yolo.weights file for further uses.
+-beinng testing the camera component
+
+Potential Challenges: Describe any potential obstacles.
+-when it comes to overall training for object detection will require a large enough data set to be accurate
