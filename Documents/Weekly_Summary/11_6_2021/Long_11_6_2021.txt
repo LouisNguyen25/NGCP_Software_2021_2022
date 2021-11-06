@@ -1,0 +1,6 @@
+Name: Long Nguyen
+- Date: 10/29/2021
+- Achievements: I have worked with the magnetometer and tried to determine the direction using x and y values. Furthermore, I have downloaded Vivado. 
+- Plans: I plan to do more reasearch on the Vivado software and print out the direction based on the x and y values of the magnetometer. Also, I might want to do some research on the xbee and rasberry Pi.
+- Potential Challenges: The chalenges I might encounter are unit conversion and equations to get a specific value. For exmple, the magnetometer might need to do some conversion to determine direction the IMU is facing. Furthermore, I might have issues testing out the xbee.
+- Opportunities: I had the Opportunities to work with Arduino, IMU, VSC, PlatformIO, and VSC LiveShare. Also, I joined a new group called group 0.
