@@ -1,0 +1,15 @@
+Name: Arabo Hovsepian
+Date: 11/6/21
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Was able to get the motor running using the driver and an Arduino
+- Looked up some code to be able to read encoder info
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Further research regarding the encoder and outputting meaningful RPM info
+
+Potential Challenges: Describe any potential obstacles.
+- One challenge is to program the Arduino so it can count all 32 pulses from each output (A and B) of the encoder and convert it to RPM
+
+Opportunities: Record any lessons you’ve learned and note areas where you can improve.
+- Learned how to connect the driver with motor and Arduino and make them communicate and also communicate with the encoder
