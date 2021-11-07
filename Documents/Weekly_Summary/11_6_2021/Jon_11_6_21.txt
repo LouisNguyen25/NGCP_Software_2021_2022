@@ -1,8 +1,0 @@
-Date: 11/6/2021
-Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
--Completed XBee analysis for multi-hop transmission
--Passed along Raspberry Pi and Xbees to Kushal
-Plans: State your specific, targeted plans for next week. Include due dates.
--Research XBee power consumption rate
-Potential Challenges: Describe any potential obstacles.
--Difficult testing Xbees and determining if we're gonna use both XBees together or just one
