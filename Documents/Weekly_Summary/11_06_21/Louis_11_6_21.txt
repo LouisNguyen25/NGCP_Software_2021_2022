@@ -1,0 +1,17 @@
+Date: 11/06/2021
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Simulink fully working and connected to Webots
+- Able to test using Slider and Game Controller Inputs as a way to change direction of wheels and PWM duty cycle
+- Conveyed to GCS the need for them to send preciese float values in order to accurately control Ackerman UGV (they wanted to send boolean)
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Will get started on fully transfering Corey's Rescue Model to Webots
+- Give assignment to controls group on testing Simulink with an Ackerman model in Webots
+- Get images of test model for testing purposes for software and embedded to develop object classification on
+
+Potential Challenges: Describe any potential obstacles.
+- Group 4 very behind on work accomplished, hoping this week they can begin working with cameras and have deliverables by the end of the month
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- Is it possible to record data sent to Webots and import to hardware like we do for rosbag in a ROS network?
