@@ -1,0 +1,8 @@
+11/06
+Achievements:
+-Worked on the calibratation and compass heading for the magnetometer. Started learning about the connection between a FPGA and Raspberry Pi using Serial connection(SPI).
+Issues: 
+-determining and editing the formula/values for the magnetometer and altitude has been diffifult. Need more research and testing.
+Next step:
+-Continue to research how to get the wanted values from the altitude and magnetometer.
+-Also continue research on how to get, read, seperate, etc. values on the Raspberry pi.
