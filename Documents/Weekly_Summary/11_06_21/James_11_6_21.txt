@@ -1,0 +1,16 @@
+James Huynh
+11/06/2021
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Today I learned about simulation in Matlab which can use with the webot tool to control the car
+- 
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- To find a better GPS module because the old one is very inaccurate in term of measuring the distance
+- The plan is our team will buy the new GPS module and replace the old one with the Xbee module 
+
+Potential Challenges: Describe any potential obstacles.
+- The connection of the Xbee module seems very hard to implement or configure it 
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- I need to research more about Xbee module and how to use it to communicate with the car 
