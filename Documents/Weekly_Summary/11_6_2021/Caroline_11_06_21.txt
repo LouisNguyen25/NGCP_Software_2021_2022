@@ -1,0 +1,16 @@
+Caroline Ta
+11/06/2021
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Learned that we may need to label the dataset (ideally of size 1000) by ourselves for object detection in the future.
+- Learned that it's more complicated to use yolo.weights file in other OS (like Windows) other than Linux.
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Find ways to use yolo.weights file or how to use a pre-trained model in a different machine.
+- Determine if .weights files are what we are looking for or if we need a different file to use/ test our trained model.
+
+Potential Challenges: Describe any potential obstacles.
+- We primarily use Windows for most of our stuff so now we have to see how to use yolo.weights file in our RPi (Linux).
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- Need to be more comfortable on working with Linux (RPi) to test YOLO's object detection/ recognition.
