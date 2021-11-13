@@ -1,0 +1,17 @@
+Date: 10/8/2021
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+-Managed to get most groups up and ready to begin prototype testing
+  -Everyone has at least some tutorial/source to refer to when working with Arduino/Raspberry Pi
+-Successfully redid Trade Matrices w/ clear format and proper weights
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+-Begin prototype testing by 10/15 in their respective subgrousp
+-Submit trace matrices to systems by 10/15
+
+Potential Challenges: Describe any potential obstacles.
+-Hard time deciding upon the scale to weigh our trace matrice FOMs on
+-Lack on information regarding Pcam 5C usage with Raspberry Pi
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+-This would be the time to resource any past leads to see where to go from here

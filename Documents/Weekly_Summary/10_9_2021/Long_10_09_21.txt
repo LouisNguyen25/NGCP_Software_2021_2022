@@ -1,0 +1,6 @@
+- Name: Long Nguyen
+- Date: 10/9/2021
+- Achievements: Contributed to the Software Trade Matrix polling. Furthermore, I researched IMU parts and their application on Webots.
+- Plans: I plan to research more about IMU and its application. 
+- Potential Challenges: The challenge is understanding how exactly the UMI works and implement it. 
+- Opportunities: I have learned that Webots Lidar works with the programming language C.

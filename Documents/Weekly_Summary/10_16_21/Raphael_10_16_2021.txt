@@ -1,0 +1,6 @@
+10/16/2021
+Beginning Implentation of Ultrasonic Sensor
+	Started following tutorial on basic setup for HC-SR04 ultrasonic sensor on Raspberry Pi. 
+	Finished script, but unable to complete wiring because I do not have resistors do divide
+	output voltage (needed to prevent GPIO pins from frying).
+	Will get 330 and 470 ohm resistors by next week.

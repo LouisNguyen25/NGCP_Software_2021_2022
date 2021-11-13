@@ -1,0 +1,15 @@
+Name: Noe Rivera
+Date: 10/16/21
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+Set up Raspbian on the RPI 4 and configure the RPI by importing potential things needed like openCV for the camera module. 
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+Find a camera that is compatible with with the RPI4, the Pcam was not compatible.
+The potential camera are the OV5647 and the Sony IMX219. 
+
+Potential Challenges: Describe any potential obstacles.
+OpenCv takes sometime to setup and install, also finding a good quality camera that is afforable.
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+The Pcam5c supports OV5640 sensor which RPI4 does not support. 
+For future refernce we need to research what sensor is supported on the moddels looked at
