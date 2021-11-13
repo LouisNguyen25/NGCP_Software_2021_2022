@@ -1,6 +1,0 @@
-10/09/21
-During today's session, we were tasked to research documentation, simulations, and code for our specfic componets in Webots
-    -While researching found we came across a video that detailed a simulation using a camera in Webots
-        - the only problem the source provide was in C++
-    - The video also demonstrated a good heiarchy
-    -Apart from the video there was a lot of documentation discovrerd to review.

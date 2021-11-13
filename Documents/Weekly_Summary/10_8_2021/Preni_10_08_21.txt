@@ -1,6 +1,0 @@
-﻿Watched the following video to familiarize myself with how to interface NEO-6M GPS module with Arduino Uno. 
-https://www.youtube.com/watch?v=pVcjXIG4KW8&list=RDCMUCRIR1soNqiUEPVDjY0EheBQ&start_radio=1
-
-
-Found this website, read about the project, and looked at the code about how to interface Arduino and NEO-6M. Also, found a code that might be helpful in the comment section about how to send sms of the location to phone.
-https://create.arduino.cc/projecthub/ruchir1674/how-to-interface-gps-module-neo-6m-with-arduino-8f90ad

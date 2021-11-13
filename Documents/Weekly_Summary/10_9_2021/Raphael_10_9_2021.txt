@@ -1,6 +1,0 @@
-10/9/21
-Researched Implementing an Ultrasonic Sensor into Webots
-	- Webots does not have a dedicated ultrasonic sensor, but it does have a generic DistanceSensor class that you can set to type "sonar". 
-	  This is the closest thing to mimicking an ultrasonic sensor module.
-	- No tutorials online to use specifically sonar-type distance sensor, but it should be the same as using the generic default sensor.
-	- I believe there is no difference in methods between generic-type and sonar-type, but need to try it out in Webots.
