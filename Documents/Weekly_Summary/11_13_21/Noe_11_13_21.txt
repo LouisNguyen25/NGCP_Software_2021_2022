@@ -1,0 +1,17 @@
+Name: Noe Rivera
+Date: 11/13/21
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+-Succesfully connected the camera to the raspberry Pi
+-activate the proper modules to use the camera
+-tested a live feed stream for 10 seconds then 30 minutes. 
+
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+-Research how to get latency and fps readings from the camera video feed
+-start implmenting the object detection, using data compiled for detecting certain types of animals 
+-start creating the data set needed for the hiker.
+
+Potential Challenges: Describe any potential obstacles.
+-when it comes to overall training for object detection will require a large enough data set to be accurate
+-Using the proper tools to minimal latency on the camera
