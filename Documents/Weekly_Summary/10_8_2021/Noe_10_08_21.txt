@@ -1,5 +1,0 @@
-10/08/21
-During today's session, we were research possible code that could be implemented for the camera component.
-The complications that we ran into does not specify what is compatible with Arduino and Raspberry Pi
-    -search for compatible camera and cross refence features with pcams
-    -looked at possible adpaters to use
