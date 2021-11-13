@@ -1,0 +1,6 @@
+Name: Long Nguyen
+- Date: 10/29/2021
+- Achievements: I have researched and typed an essay for the new IMU which is the MPU 6050.
+- Plans: I plan to do more research on the MPU 6050 and implement it in the future to have it print out the correct readings.
+- Potential Challenges: I might have to learn how to solder and have a way to efficiently test the new IMU readings.
+- Opportunities: I had the opportunity to work in groups, with IMUs and its libraries, and VSC.
