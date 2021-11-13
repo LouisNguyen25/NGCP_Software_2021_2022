@@ -1,0 +1,13 @@
+﻿Preni Amijanian
+11/13/2021 
+
+
+Achievement:
+* Downloaded MathWorks and Installed MATLAB and Simulink
+* Researched Python code to be able to interface the XBee module with Raspberry Pi 
+* Researched some of the specifications of XBee Pro S2B
+Challenge:
+* An issue installing MATLAB and Simulink which was solved with Louis’s help 
+Plan:
+* Do more research on XBee Pro S2B
+* Work on webots using the MATLAB code
