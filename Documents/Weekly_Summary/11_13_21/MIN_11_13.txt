@@ -1,0 +1,9 @@
+11/13
+Accomplishment:
+- Researched for a new IMU--> MPU 6050
+- Watched videos of how to implement the IMU and wrote the documentation for it.
+- Found 2 github resources that will be helpful during the actual implementation
+- Why we switched?
+	The original IMU had problems with calibration of the magnetometer and 	alitmeter.
+Next Step:
+-Actually implement the IMU and interface using Ardunio.
