@@ -1,0 +1,17 @@
+Caroline Ta
+11/13/2021
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Team members are getting parts and programs ready for testing the camera.
+- One of our team members successfully set up the RPi and streamed it.
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Finish setting up OpenCV on RPi to be able to find latency and fps readings of the camera feed.
+
+Potential Challenges: Describe any potential obstacles.
+- Not all members in our team have the necessary parts yet.
+- In the future when we're ready to test, we will need a dataset of the hiker images to use YOLO to learn to detect them.
+However, this data set is specific and we may need to create them by ourselves. It is tedious and time consuming because we will need at least 1000 images.
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- RPi Camera v2 quality is good and no latency so far as we tested streaming it.
