@@ -1,1 +1,15 @@
+Name: Louis Nguyen
 
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Group 2 (James/Preni/Saharat) is helping out with working on the Xbee along with Kushal and Anish
+- IMU group has come to the conclusion that we need to purchase a new IMU -> Ordered the MPU 6050 to test out
+- Camera group has done some test with the v2 camera, and appears to be working good
+- Controls group has made the Ackerman model in Webots move succesfully via Simulink, need to learn the relationship between the wheels angles so we can properly simulate it
+- FPGA embedded group has sucessfully gotten encoder values to get RPM for current prototype motors
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Waiting on Kushal to find a Xbee to order so he can test the Xbee with
+- Begin testing with MPU 6050
+
+Potential Challenges: Describe any potential obstacles.
+- Having trouble fully converting Webots model of Corey's net design robot to a workable object
