@@ -1,9 +1,0 @@
-Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
-- I was able to read the encoder and convert the data into RPM for the motor using the code provided by Oscar.
-- Done some new research for motor drivers
-
-Plans: State your specific, targeted plans for next week. Include due dates.
-- More trials with the RPM reading and knowing if the RPM actually matches the motor's RPM or not (accuracy)
-
-Potential Challenges: Describe any potential obstacles.
-- No device at hand to test for accuracy so that would be a challenge
