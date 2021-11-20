@@ -1,0 +1,10 @@
+11/20
+Accomplishment:
+- got the MPU 6050 outputing data
+- researched for another imu that can give more accurate data
+- researched about the raspberry pi and fpga connection through SPI
+	- found a pdf and started taking notes
+
+Next step:
+- find implementation examples for the raspberry pi and fpga connection
+- waiting for a recommendation for the new imu
