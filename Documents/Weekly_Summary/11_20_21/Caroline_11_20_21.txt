@@ -1,0 +1,17 @@
+Caroline Ta
+11/20/2021
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Enable easy file transferring between RPi and Windows through SSH and WinSCP
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Finish setting up OpenCV on RPi to be able to find latency and fps readings of the camera feed.
+- Look for ways to expand RPi's wifi range, maybe through a USB Module Antenna for RPi
+- Team members get the working doll and proceed to take pictures and create dataset for YOLO training.
+
+Potential Challenges: Describe any potential obstacles.
+- Not all members in our team have the necessary parts yet.
+- We will have to create our own dataset with the doll. Ideally, we need the dataset of size 1000, but we will try to do at least 100.
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- Using the trained weights file is still a learning process. I may need to find a different tutorial to train and maybe find a different approach to use the trained dataset.
