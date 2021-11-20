@@ -1,0 +1,6 @@
+Name: Long Nguyen
+- Date: 10/29/2021
+- Achievements: I have researched the MPU 6050 and soldered it. Furthermore, I have successfuly print out the values from the accelerometer, gyroscope, and thermometer. Moreover, I have included the motion detection feature and included the pitch + roll. Lastly, the only problem is the yaw not changing like a compass should to determind which direction the IMU is facing.
+- Plans: I plan to do more research on the MPU 6050 and other IMU that are more expensive for the project.
+- Potential Challenges: I might have to learn how to solder and have a way to efficiently test the new IMU readings.
+- Opportunities: I had the opportunity to work in groups, with IMUs and its libraries, and VSC.
