@@ -20,7 +20,7 @@
 
 ## Controls
 1. Benjamin
-2. Nhan
+2. [Nhan](https://github.com/julywaters)
 
 ------------------------------
 
