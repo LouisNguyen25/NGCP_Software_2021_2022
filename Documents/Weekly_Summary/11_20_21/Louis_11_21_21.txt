@@ -1,0 +1,17 @@
+Name: Louis Nguyen
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- IMU group has tested the MPU 6050, and upon evaluation, it would appear we need to buy an even better IMU
+- Looking into using the most expensive IMU they found during the part search earlier in the year
+- Camera group is going to come into possession of the doll from Corey so that they can begin next week to take pictures to attempt to perform image detection
+- Controls group has gotten the Ackerman model in Webots to move at specific angles from the analog input, and has begun working with getting the sensors data to Simulink
+- Motors group unable to get encoder values from test motor on RPI, not that big of an issue since the encoder will be run on the FPGA
+- Xbee group just beginning to test it on RPI, in the meantime looked at the different packets of data that need to be compiled from other components to be sent to GCS
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Investigate Wifi Card usage for streaming of video to GCS since Xbee incapable of doing so
+- Purchase better IMU for group 3
+- Due date set for 12/20 as when prototype testing is to be finished
+
+Potential Challenges: Describe any potential obstacles.
+- Integration of RTOS into architecture (upon Bosko's notion) and the move on whether to stick with C/C++ or Python
