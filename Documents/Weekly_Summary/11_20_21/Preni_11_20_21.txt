@@ -1,0 +1,9 @@
+﻿Preni Amijanian
+11/20/2021 
+
+
+Achievement:
+* Started working with MathWorks and familiarized myself with Simulink
+* Researched Python code to interface the XBee Pro S2B with Raspberry Pi 
+Plan:
+* Solve the issue regarding the MATLAB code
