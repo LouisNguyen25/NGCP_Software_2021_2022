@@ -1,0 +1,14 @@
+Noe Rivera
+11/20/2021
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- continue to test the camera and its functionalities.
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- research a proper way to stream with low latency
+- Continue research on Canny edge detection.
+- Start creating the data set of the dolo to use for YOLO 
+
+Potential Challenges: Describe any potential obstacles.
+- Not everyone in the group has the compenets needed
+- training the proper data set can prove to be an isue
