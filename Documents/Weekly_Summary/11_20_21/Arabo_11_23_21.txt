@@ -1,0 +1,9 @@
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- I was able to read the RPM and also determine the direction of the motor
+- Done more research on the motor driver
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Code optimizations maybe and more research
+
+Potential Challenges: Describe any potential obstacles.
+- None
