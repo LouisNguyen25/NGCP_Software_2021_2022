@@ -1,0 +1,9 @@
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- I was able to control the motor to stay at a certain RPM
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Seems like we need to work with Raspberry Pi from now on so we have to write the code to be compatible with that
+- Getting my hands on a Raspberry Pi
+
+Potential Challenges: Describe any potential obstacles.
+- New hardware means we will encounter errors and challenges on the way
