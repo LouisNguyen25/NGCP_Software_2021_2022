@@ -1,0 +1,16 @@
+Name: Nhan Phan
+Date: 11/27/2021
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Program loads when the sensors are enabled
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Interface with the robot simulation to colect data from simulated sensors 
+
+Potential Challenges: Describe any potential obstacles.
+- Trying to find out why why Webots is running so slow is proving to be difficult.
+- Implementing a variable that is separate with the hardware might be more difficult than expected (ie. sensor values)
+- Plumbing issues arose, so finding time this week to work on this will be difficult
+
+Opportunities: Record any lessons you’ve learned and note areas where you can improve.
+- I could have put aside more time to work on the simulation, especially since it takes so long to load
