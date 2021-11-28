@@ -1,0 +1,6 @@
+Name: Long Nguyen
+- Date: 11/27/2021
+- Achievements: sucessfully setup the MPU 6050 IMU. Researched expensive IMUs to buy. So far I have found the code in python and c for the Adafrui-9DOF. 
+- Plans: I plan to do more research on the Adafrui-9DOF and other IMU that are pricy and easy to implement.
+- Potential Challenges: I need to know how to print out the outputs of the sensors from the IMU using a raspberry pi.
+- Opportunities: I had the opportunity to work with raspberry pi and know more about it.
