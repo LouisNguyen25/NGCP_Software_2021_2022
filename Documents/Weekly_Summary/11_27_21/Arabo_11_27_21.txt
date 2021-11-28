@@ -6,4 +6,4 @@ Plans: State your specific, targeted plans for next week. Include due dates.
 - Getting my hands on a Raspberry Pi
 
 Potential Challenges: Describe any potential obstacles.
-- New hardware means we will encounter errors and challenges on the way
+- New hardware means we will encounter errors and challenges along the way
