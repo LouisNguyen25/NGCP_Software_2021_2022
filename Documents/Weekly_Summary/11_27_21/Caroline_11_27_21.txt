@@ -2,17 +2,15 @@ Caroline Ta
 11/27/2021
 
 Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
--
--
+- Found resources of how to improve latency for RPi Camera streaming
+- Found resources of how to record the stream while streaming
 
 Plans: State your specific, targeted plans for next week. Include due dates.
--
--
+- Object detection is no longer in the plan, so shift focus to RPi Camera and top down module.
 
 Potential Challenges: Describe any potential obstacles.
--
--
+- Resources on how to improve latency of RPi camera streaming may be limited.
+- Object detection is dropped.
 
 Opportunities: Record any lessons you've learned and note areas where you can improve.
--
--
+- There are multiple ways to stream RPi, it depends on how you want to do it.
