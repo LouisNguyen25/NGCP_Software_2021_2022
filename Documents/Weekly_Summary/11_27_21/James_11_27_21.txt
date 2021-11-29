@@ -1,0 +1,18 @@
+James Huynh
+11/27/2021
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Able to establish a connection with the slave and the master through the Xbee 
+- Connect successfully with the raspberry pi through vnc
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Plan to connect the xbee to the raspberry pi
+- Work with other team members to connect the xbee to the raspberry pi
+
+Potential Challenges: Describe any potential obstacles.
+- It is really hard to connect the xbee to the raspberry pi between the slave and the master
+- I need to start from scratch and learn how to connect the xbee to the raspberry pi
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- I think I have to study more about the xbee to get it to work with the raspberry pi
+- Need to find more information about the xbee
