@@ -1,0 +1,3 @@
+Min_12/11/2021
+Accomplishment: Found documentation that might help set up the Adafruit 9 dof- bnO055. Also looked through github codes and linked it in our document to help us once we receive the imu
+Next Step: Receive the imu and try to get output readings from it as soon as possible.
