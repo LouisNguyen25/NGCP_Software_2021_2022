@@ -1,0 +1,6 @@
+Started translating Oscar's DELTA.ino file into python for use on the RPI.
+The ino file is currently used to get the encoder values from the motor on the arduino
+and calculate the RPM value from it.
+
+Translation is almost done, but need to find a substitue for the TimerOne module used.
+TimerOne creates an interrupt based on when the input in the speed sensor pin changes
