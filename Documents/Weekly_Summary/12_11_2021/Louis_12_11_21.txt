@@ -1,0 +1,14 @@
+Name: Louis Nguyen
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Able to successfully use Simulink to send output to Raspberry Pi to control Servo Motor
+- IMU group has got their raspberry pi running and is looking to get their new IMU soon and implement on RPI instead of Arduino
+- Motor group also looking to transferring their Arduino code to RPI for software-implementation
+- Xbee looking to create custom code that doesn't rely on custom program to get data
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Groups looking to finish up their work by Dec. 20th deadline
+- Look into getting sensor data in Simulink
+
+Potential Challenges: Describe any potential obstacles.
+- Simulink RPI implementation is sometimes unreliable in connection
