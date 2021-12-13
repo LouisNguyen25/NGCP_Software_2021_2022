@@ -1,0 +1,1 @@
+I'm mostly done with the code on Arduino to control the speed, calculate the RPM and determine the direction but since we aren't going to use any Arduinos in the project, we have to rewrite the code for raspberry pi which I don't currently have in my possession. So the plan is to get one by next week and start working on the code.
