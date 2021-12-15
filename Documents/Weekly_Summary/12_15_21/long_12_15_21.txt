@@ -1,0 +1,6 @@
+Name: Long Nguyen
+- Date: 11/27/2021
+- Achievements: Researched the Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BN0055. Furthermore, I got the IMU running on Arduino Software and it's printing out values such as temperature, gyro, acceleration, and orientation.
+- Plans: I plan to do more research on the Adafrui-9DOF and other IMU that are pricy and easy to implement. Also, I would want to do more research on how to run the IMU with pyhon on a Raspberry PI
+- Potential Challenges: I need to know how to print out the outputs of the sensors from the IMU using a Raspberry PI.
+- Opportunities: I had the opportunity to work with Arduino Software and know more about it.
