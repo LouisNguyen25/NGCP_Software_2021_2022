@@ -1,0 +1,10 @@
+Achievements
+- I was able to translate part of the code written for Arduino to python so we can use it in RPi and so the result was a successful reading of RPM and directions from RPi
+- Me and Raphael had some progress translating Oscar's code to python
+
+Plans
+- Work on the translation process for Oscar's code
+- Get my code to do all the things it is supposed to do (fully translate it to python from C)
+
+Potential Challenges
+- The new timer for python needs to be figured out and implemented correctly in the code
