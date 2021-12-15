@@ -1,0 +1,14 @@
+Noe Rivera
+12/15/2021
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- used the vlc method of streaming and found a 5 to 10 second delay
+- have 2 current ways to stream one using bash shells another using python
+- the python method seems to be the best in terms of low latency still need to test more
+- these methods require devices be on the same network to view the stream
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- test more with the python method and test different methods to stream
+
+Potential Challenges: Describe any potential obstacles.
+- we need the specific way to stream so we can improve the overall quality
