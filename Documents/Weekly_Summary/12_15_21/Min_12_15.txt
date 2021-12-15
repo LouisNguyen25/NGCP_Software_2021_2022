@@ -1,0 +1,12 @@
+12/15/2021
+Accomplishment:
+-Started working on the Adafruit-BNO055 coding
+-found a github page that we can reference
+-used the Adrunio IDE to print the acc, gyro, temperature in F, oreination
+
+Next step:
+-make the reading more readable
+-understand the extra data that it prints out
+- film the demo video
+
+
