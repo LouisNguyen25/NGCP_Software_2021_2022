@@ -1,0 +1,5 @@
+Today we continued work on creating python code to calculate RPM
+based on our working Arduino code. We spent most of the time different modules
+to use as sufficient substitutes for what was used in the ino code. We found the
+threading.Timer() class which seems useful for our purposes and will look into it
+further.
