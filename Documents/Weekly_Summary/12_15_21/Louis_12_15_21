@@ -1,0 +1,14 @@
+Date: 12/15/2021
+
+- Achievements:
+- Group 0, 1, and 4 have demonstrated that they will/already have something working for the Dec. 20th demo for Arduino
+- Teams working to move all their Arduino prototypes to fully RPI implementations
+
+- Plans: 
+- Later introduce to team how the Pentalinux setup will work for running Python code on FPGA
+
+- Potential Challenges: 
+- Simulink with small pulse generators affects the timing of the entire simulation, slowing it down
+
+- Opportunities: 
+- Simulink capable of interfacing with video, GPIO pins through various communication protocols, however the timing must be right to get the data from each
