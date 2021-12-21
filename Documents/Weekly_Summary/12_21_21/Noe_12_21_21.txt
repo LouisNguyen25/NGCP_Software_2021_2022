@@ -1,0 +1,11 @@
+Noe Rivera
+12/21/2021
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- have a stable method of streaming with low latency that connects to the RPI ip address via web browser
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- look into wifi cards for a bigger range 
+
+Potential Challenges: Describe any potential obstacles.
+- look into good and compact cards to fit the over model
