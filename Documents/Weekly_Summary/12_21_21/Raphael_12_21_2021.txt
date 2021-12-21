@@ -1,0 +1,8 @@
+Continued working on encoder code for the motor on the Raspberry Pi.
+Code compiles, but does not output any data, even though the motor is spinning.
+Additionally, we get traceback errors from the threading module.
+
+Arabo and myself are looking into developing our own python code instead of translating Oscar's
+arduino code to python so that we have a better understanding of the code functionality.
+
+Additionally, I created a demonstration video for the ultrasonic sensor ton the raspberry pi
