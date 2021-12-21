@@ -1,0 +1,5 @@
+12/21/2021
+Accomplishment: Finally got the raspberry pi to output data from the adafruit bno055!!
+	- some of the issues were fixed by finding a newer document which had pictures of the different wiring fro uart and i2c. We choose to go with the i2c connection for now.
+
+Next Step: Make the Orientation more accurate.(roll,p ithc, yaw)
