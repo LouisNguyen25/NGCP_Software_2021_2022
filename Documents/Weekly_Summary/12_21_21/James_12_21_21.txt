@@ -1,0 +1,17 @@
+James Huynh
+11/27/2021
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- Still figure how to conenct the Master and Slave in separate operate system as PC and raspberry
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+- Plan to connect the xbee to the raspberry pi and PC
+- Work with other team members to connect the xbee to the raspberry pi
+
+Potential Challenges: Describe any potential obstacles.
+- It is really hard to connect the xbee to the raspberry pi between the slave and the master
+- Trying to watch a lot of youtube tutorial on how to connect the xbee to the raspberry pi and PC
+
+Opportunities: Record any lessons you've learned and note areas where you can improve.
+- I think I have to study more about the xbee to get it to work with the raspberry pi
+- Need to find more information about the xbee
