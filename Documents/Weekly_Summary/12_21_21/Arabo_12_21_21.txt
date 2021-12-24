@@ -1,0 +1,8 @@
+Achievements
+- Progress with Oscar's code and I was able to make the motor spin using his code
+
+Plans
+- I'm gonna change gears and work on my code and translate it fully to python to work on Raspberry Pi
+
+Potential Challenges
+- Not any potential challenges just some work to translate the code
