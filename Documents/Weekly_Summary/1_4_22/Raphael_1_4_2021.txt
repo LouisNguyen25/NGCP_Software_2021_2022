@@ -1,0 +1,4 @@
+Continued work on the motor and encoder implementation for the raspberry pi.
+Still issues on both RPM calculation and direction, not much progress has been made.
+Want to look into locking the function at when a sample is taken; a possible issue is that the encoder is still getting new values
+as the function is being called to return the values.
