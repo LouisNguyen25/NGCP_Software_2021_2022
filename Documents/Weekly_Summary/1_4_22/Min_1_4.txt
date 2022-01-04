@@ -1,0 +1,10 @@
+01/04/2022
+Accomplishment:
+Are able to print out all the data we need. (Accelerometer, Gyro, linear acceleration)
+Noted which data type they are.
+
+Difficulties:
+Not sure if we need to conver the data to IEE 754 binary numbers yet.
+
+Next Step:
+Help James with the Exbee and understand which datas are need from the imu.
