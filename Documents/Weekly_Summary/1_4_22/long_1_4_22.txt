@@ -1,0 +1,6 @@
+Name: Long Nguyen
+- Date: 11/27/2021
+- Achievements: I got the IMU running on Arduino and Raspberry Pi. The values are acceleration, gyro, orientation, temperature, and etc. Furthermore, I got could modify the print out sensor values even if the data type is tuple.
+- Plans: To do research on the Xbee and get it to receive information using the Raspberry Pi.
+- Potential Challenges: How to modify and manipulate the print out variables. Also, to get the Xbee recieve some information using the Raspberry Pi.
+- Opportunities: I had the opportunity to work with Arduino Software, Raspberry Pi, and with a partner remotely.
