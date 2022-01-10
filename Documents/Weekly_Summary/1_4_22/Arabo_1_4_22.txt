@@ -1,0 +1,8 @@
+Achievements
+- Full translation of the code from C to Python to be able to run it on RPi
+
+Plans
+- Further development of the code since it outputs wrong values for RPM and direction
+
+Potential Challenges
+- Since we still can't figure out why it outputs wrong values, the challenge is going to be figure out the reason and find a solution
