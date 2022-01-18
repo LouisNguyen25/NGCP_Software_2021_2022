@@ -1,0 +1,2 @@
+Summary:
+Observed Long trying to connect the raspbery pi and fpga; however, saw that there was a issue with the connection. Thus, moved on to connecting the raspberry pi with spi.Next week, will be trying to connect the ardunio with spi.
