@@ -1,0 +1,6 @@
+Name: Long Nguyen
+- Date: 1/29/2022
+- Achievements: I have a chance to work with FPGA, Vivado 2019 software, OLED. Also, I have successfully soldered 2 jumpers together to make a female to female jumper. 
+- Plans: To do research on the SPI and the connection from Rapberry PI to the OLED.
+- Potential Challenges: The connection from the OLED to Raspberry PI might be difficult to accomplish.
+- Opportunities: I was able to be exposed to SPI, FPGA, Vivado, Xilinx, and soldering to make jumpers (female to female).
