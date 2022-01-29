@@ -1,0 +1,3 @@
+1/29/2022
+Summary:
+Watched Long trying to do raspberry pi spi connection. There were sone syntax problems and installing the right python issues. Hopefully, next week we can find the solution.
