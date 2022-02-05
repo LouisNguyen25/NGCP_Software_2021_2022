@@ -1,0 +1,5 @@
+Continued research on solenoid implementation, still on standby to receive component.
+	Looking to be simple with GPIO and pwm on Pi.
+	
+Preparingto make pseudocode/UML diagram on autonomous mode.
+	Consists of waypoint navigation and obstacle avoidance.
