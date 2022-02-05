@@ -1,0 +1,15 @@
+Noe Rivera
+02/05/2022
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- research methods for further implementations for the camera on the vehical
+- if we go with a streaming method via internet we need more info on wifi cards/hot spot
+- research how drones communicate via analog signals
+
+Plans: State your specific, targeted plans for next week. Include due dates.
+-  wolfwhoop camera was ordered when arrives test and see the functionalites
+- test the hotspot method
+- more research on analog signals
+
+Potential Challenges: Describe any potential obstacles.
+- more methods have surfaced and now we have to decide what is the best choice
