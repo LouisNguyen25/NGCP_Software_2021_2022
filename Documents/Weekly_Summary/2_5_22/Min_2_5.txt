@@ -1,0 +1,3 @@
+2/5/2022
+Summary:
+I inputted the data type and bytes on the UGV Data Points document. Team is deciding whether to move to the webots modeling.
