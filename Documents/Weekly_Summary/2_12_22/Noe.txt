@@ -1,0 +1,11 @@
+Noe Rivera
+02/12/2022
+
+Achievements: List your accomplishments during the week, including activities you’ve completed and objective you’ve met.
+- research into FPV recievers that are compatible with PC
+Plans: State your specific, targeted plans for next week. Include due dates.
+- test the wolfwhoop
+- Do a distance test once reciever is received
+
+Potential Challenges: Describe any potential obstacles.
+- The unknown potential interferance when using radio waves
